@@ -31,6 +31,7 @@ Doika - модуль, які дапамагае прымаць ахвярава�
 
 ## Карысныя спасылкі
 * [Прэзентацыйная ўэб-старонка](https://doika.falanster.by/)
+
 * [Прэзентацыя (слайды)](https://docs.google.com/presentation/d/144zEv4DyBoa0jDKwee30Rip0oKZ8QzkeUKaNCRWy1qY/edit#slide=id.g42bd4a5055_0_28)
 * [FAQ](https://github.com/diglabby/doika/wiki/FAQ)
 * [Telegram тэх-падтрымкі](https://t.me/joinchat/FCPQXhFMFgED8krhwVt5IQ)
